@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guyromb/Cordova-open-native-settings"
+    "url": "git+https://github.com/HamzaGulzar1741/cardova-procell-setting"
   },
   "keywords": [
     "native-settings",
@@ -26,38 +26,18 @@
       }
     }
   },
-  "author": "Guy Rombaut <admin@gsrweb.net>",
+  "author": "hamzablitz1741 <gulzar.h@duracell.com>",
   "contributors": [
     {
-      "name": "Guy Rombaut",
-      "email": "admin@gsrweb.net",
-      "url": "http://gsrweb.net",
-      "username": "guyromb"
-    },
-    {
-      "name": "unknown",
-      "username": "deefactorial"
-    },
-    {
-      "name": "unknown",
-      "username": "selahssea"
-    },
-    {
-      "name": "unknown",
-      "username": "asmund1"
-    },
-    {
-      "name": "unknown",
-      "username": "perlish"
-    },
-    {
-      "name": "unknown",
-      "username": "emcniece"
+      "name": "hamzablitz1741",
+      "email": "gulzar.h@duracell.com",
+      "url": "http://lowcodesystems.com",
+      "username": "hamzablitz1741"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guyromb/Cordova-open-native-settings/issues"
+    "url": "https://github.com/HamzaGulzar1741/cardova-procell-setting/issues"
   },
-  "homepage": "https://github.com/guyromb/Cordova-open-native-settings#readme"
+  "homepage": "https://github.com/HamzaGulzar1741/cardova-procell-setting"
 }
